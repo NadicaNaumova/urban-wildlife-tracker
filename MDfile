@@ -1,0 +1,6 @@
+The Urban Wildlife Tracker project is designed to monitor and document wildlife sightings in urban areas. The API allows users to create, view, update, and delete records of sightings, each containing details such as location, photo URL, timestamp, description, and associated user and species information. It includes endpoints for managing species and sightings, facilitating data entry and retrieval for tracking urban wildlife activities.
+
+For more detailed information, you can visit the https://documenter.getpostman.com/view/34374693/2sA3QqgsfM
+Base URL
+http://localhost:8082/api
+
